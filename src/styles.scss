@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+table{
+    width:100%;
+}
+
+.header-txt{
+    color:rgb(38,69,83);
+    font-weight:500 !important;
+}
+
+.f-style{
+    
+    font-size: 16px;
+    padding:10px;
+}
+
+.f-600{
+    font-weight: 600;
+}
+
+.val-st{
+    margin-left:3%;
+}
+
+table tr{
+    cursor: pointer;
+}
+
+.txt-decor{
+    text-decoration: underline;
+    
+}
